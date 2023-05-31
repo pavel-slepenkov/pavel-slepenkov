@@ -18,5 +18,5 @@ As a cross-functional software engineer, I am deeply passionate about data engin
 
 ---
 
-- [CV](https://pavelslepenkov.info/cv)
-- [Personal blog](https://pavelslepenkov.info)
+- [CV](https://0x4ad.com/cv)
+- [Personal blog](https://0x4ad.com)
